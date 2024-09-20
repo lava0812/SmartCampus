@@ -15,17 +15,8 @@ Our solution uses an RGB camera to count the number of people entering and exiti
 
 ### Prerequisites
 - RGB Camera
-- Python 3.x
-- OpenCV (Version x.x.x)
-
-### Installation
-1. `git clone https://github.com/yourusername/smartcampus.git`
-2. `cd smartcampus`
-3. Connect your RGB camera.
-
-### Usage
-1. `python main.py`
-2. Adjust the camera for optimal view.
+- Python
+- OpenCV
 
 ## Future Work
 Potential to integrate machine learning techniques, like CNNs, for enhanced accuracy.
@@ -33,5 +24,3 @@ Potential to integrate machine learning techniques, like CNNs, for enhanced accu
 ## Contributing
 Submit a pull request or open an issue for contributions.
 
-## License
-MIT License. See `LICENSE` for details.
